@@ -1,9 +1,9 @@
 site_name: Mkdocs Template
 site_description: A website template for using mkdocs
 site_author: Qiusheng Wu
-site_url: https://giswqs.github.io/mkdocs-template
+site_url: https://andrejvysny.github.io/mkdocs-example/
 
-repo_url: https://github.com/giswqs/mkdocs-template
+repo_url: https://github.com/andrejvysny/mkdocs-example
 
 copyright: "Copyright &copy; 2022 - 2023 Qiusheng Wu"
 
